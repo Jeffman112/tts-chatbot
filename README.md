@@ -24,3 +24,4 @@ The script assumes that you have a compatible GPU for faster model inference. If
 Make sure to respect any usage terms and conditions associated with the pre-trained language model you choose to use.
 ## Disclaimer
 This script uses a pre-trained language model and may generate text responses that do not always align with expectations. It is important to review and filter the generated content, especially in cases where the model's output may be inappropriate or undesirable.
+I wont add requriements.txt because its a pain to install everything properly and idk i just googled everything
